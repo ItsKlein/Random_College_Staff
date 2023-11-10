@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1683956931 source:c:\users\administrator\desktop\c++ commision\finalproject\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<unistd.h>
+	<iomanip>
+	<libxl.h>
+	<stdlib.h>
+
+1681318797 c:\libxl-4.1.2\include_cpp\libxl.h
+	"IBookT.h"
+	"ISheetT.h"
+	"IFormatT.h"
+	"IFontT.h"
+	"IAutoFilterT.h"
+	"IFilterColumnT.h"
+	"IRichStringT.h"
+	"IFormControlT.h"
+	"IConditionalFormatT.h"
+	"IConditionalFormattingT.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\ibookt.h
+	<stddef.h>
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\setup.h
+
+1681318797 c:\libxl-4.1.2\include_cpp\enum.h
+
+1681318797 c:\libxl-4.1.2\include_cpp\isheett.h
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\iformatt.h
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\ifontt.h
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\iautofiltert.h
+	"setup.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\ifiltercolumnt.h
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\irichstringt.h
+	"setup.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\iformcontrolt.h
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\iconditionalformatt.h
+	"setup.h"
+	"enum.h"
+
+1681318797 c:\libxl-4.1.2\include_cpp\iconditionalformattingt.h
+	"setup.h"
+	"enum.h"
+
